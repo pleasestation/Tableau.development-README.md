@@ -31,9 +31,13 @@ Before running the Tableau files, ensure you have the following installed:
 ## Project Structure
 This repository contains the following key files and directories:
 
-📂 Data/ ├── raw_data.csv # Original datasets used in Tableau ├── processed_data.xlsx # Processed datasets ready for visualization 
+📂 Data/ ├── raw_data.csv # Original datasets used in Tableau 
 
-📂 Tableau_Workbooks/ ├── Sales_Dashboard.twb # Tableau workbook for sales analysis ├── Customer_Segmentation.twbx # Packaged workbook for segmentation analysis 
+📂 Data/ ├── processed_data.xlsx # Processed datasets ready for visualization 
+
+📂 Tableau_Workbooks/ ├── Sales_Dashboard.twb # Tableau workbook for sales analysis 
+
+📂 Data/ ├── Customer_Segmentation.twbx # Packaged workbook for segmentation analysis 
 
 📂 Scripts/ └── data_preprocessing.py # Python scripts to clean and transform data requirements.txt # Required dependencies file README.md # Project documentation LICENSE # License file
 
