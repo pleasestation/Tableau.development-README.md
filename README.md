@@ -1,4 +1,4 @@
-# Tableau Development Project
+# Tableau Development Projects
 
 This repository contains Tableau workbooks, datasets, and scripts used for building interactive dashboards and data visualizations. The purpose of this project is to provide insights through data analysis and visualization techniques using Tableau.
 
