@@ -1,9 +1,17 @@
-# Spotify Penetration Analysis
+# Spotify Penetration Analysis Solution
 ## Tableau Development
 
 ## Overview  
 This project involves analyzing Spotify's market penetration rate in different countries to assess its performance and growth potential. The task is based on calculating the active user penetration rate, using specific criteria for defining active users and leveraging SQL for data analysis and Tableau for visualization.
 
+Unlocking insights into Spotify's market reach with a comprehensive penetration analysis.
+
+StrataScratch offers SQL practice questions, including those tailored for Meta (formerly Facebook) interview preparation. These questions focus on real-world business scenarios, requiring analytical skills and SQL proficiency. Common topics include:
+
+User engagement analysis
+Revenue and growth metrics
+Ad performance evaluation
+Behavioral trend analysis
 ---
 
 ## Task Details  
