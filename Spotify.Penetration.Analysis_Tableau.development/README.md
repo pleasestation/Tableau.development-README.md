@@ -1,4 +1,5 @@
 # Spotify Penetration Analysis
+## Tableau Development
 
 ## Overview  
 This project involves analyzing Spotify's market penetration rate in different countries to assess its performance and growth potential. The task is based on calculating the active user penetration rate, using specific criteria for defining active users and leveraging SQL for data analysis and Tableau for visualization.
