@@ -77,6 +77,8 @@ Difficulty Level: **Hard**
 Task ID: **10369**  
 
 ---
+[![View Project on Tableau](https://img.shields.io/badge/Project%20on-Tableau-blue?style=for-the-badge&logo=tableau)](https://public.tableau.com/app/profile/alexander.suris/viz/SpotifyPenetrationAnalysis/SpotifyPenetrationAnalysis)
+---
 
 ## Date and Preparation  
 **Interview Practice Date**: January 2024  
